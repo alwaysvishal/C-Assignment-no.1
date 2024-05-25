@@ -1,0 +1,21 @@
+// Vishal Gupta
+// Roll no.2303510100108
+// 7. Write a C program that converts kilometres per hour to miles per hour. (1 KM = 0.621371 M)
+//          Expected Output:
+//          Input kilometres per hour: 15
+//          9.320568 miles per hour
+
+#include <stdio.h>
+
+int main()
+{
+    double km_per_hour, miles_per_hour;
+
+    printf"Enter value in kilometres per hour: ");
+    scanf("%lf", &km_per_hour);
+
+    miles_per_hour = km_per_hour * 0.621371;
+
+    printf("%.6lf miles per hour\n", miles_per_hour);
+    return 0;
+}

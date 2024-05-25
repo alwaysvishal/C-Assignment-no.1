@@ -1,0 +1,24 @@
+// Vishal Gupta
+// Roll no.2303510100108
+// 9. Write a C program to convert specified days into years, weeks and days. Note: Ignore leap year.
+//         Expected Output:
+//         Number input: 1329
+//         3 Years: 33 Weeks: 3 Days
+
+
+#include <stdio.h>
+
+int main()
+{
+    int days, years, weeks, remaining_days;
+    printf("Enter number of days: ");
+    scanf("%d", &days);
+
+    years = days / 365;
+    remaining_days = days % 365;
+    weeks = remaining_days / 7;
+    remaining_days = remaining_days % 7;
+
+    printf("%d Years: %d Weeks: %d Days\n", years, weeks, remaining_days);
+    return 0;
+}

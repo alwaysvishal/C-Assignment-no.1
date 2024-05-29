@@ -1,6 +1,5 @@
 //Vishal Gupta
 //Roll no. 2303510100108
-// 2. write a program to print "Hello" in the first line and "KGI !!" in the second line.
 
 #include <stdio.h>
 

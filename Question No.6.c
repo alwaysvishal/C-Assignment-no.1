@@ -1,6 +1,5 @@
 //Vishal Gupta
 //Roll no.2303510100108
-//6. WAP to print sum of two numbers. Numbers are taken by user.
 
 #include <stdio.h>
 

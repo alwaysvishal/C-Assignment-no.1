@@ -1,6 +1,5 @@
 //Vishal Gupta
 //Roll no.2303510100108
-// 5. Write a program to print “Happy Teachers Day” on the screen (Remember to print double and single quotes).
 
 #include <stdio.h>
 

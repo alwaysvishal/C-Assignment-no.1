@@ -1,6 +1,5 @@
 //Vishal Gupta
 //Roll no.2303510100108
-// 3. Write a program to print "Hello KGI !!" with double quotes.
 
 #include <stdio.h>
 

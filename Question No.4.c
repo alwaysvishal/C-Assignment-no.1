@@ -1,6 +1,5 @@
 //Vishal Gupta
 // Roll no. 2303510100108
-// 4. Write a program to print \n and \r on the screen.
 
 #include <stdio.h>
 

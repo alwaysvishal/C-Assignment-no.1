@@ -1,9 +1,6 @@
 //Vishal Gupta
 //Roll no.2303510100108
-// 8. WAP in C that takes minutes as input, and display the total number of hours and minutes in (HH : MM) format.
-//          Expected Output:
-//          Input total minute: 546
-//          09 : 06 
+
 
 #include <stdio.h>
 

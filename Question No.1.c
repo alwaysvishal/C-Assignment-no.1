@@ -1,6 +1,5 @@
 //Vishal Gupta
 //Roll no.2303510100108
-//Question No.1 Write a program to print "Hello KGI !!" on the console window
 
 #include <stdio.h>
 
